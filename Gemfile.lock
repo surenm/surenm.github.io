@@ -90,12 +90,12 @@ GEM
     maruku (0.7.0)
     mercenary (0.3.4)
     mime-types (1.25.1)
-    mini_portile (0.6.0)
+    mini_portile2 (2.4.0)
     minitest (5.4.0)
     multi_json (1.10.1)
     mustache (0.99.6)
-    nokogiri (1.6.3.1)
-      mini_portile (= 0.6.0)
+    nokogiri (1.10.8)
+      mini_portile2 (~> 2.4.0)
     pagoda-jekyll (0.0.11)
       grit
       jekyll
